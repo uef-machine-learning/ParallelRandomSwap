@@ -1,6 +1,6 @@
 ## Parallel Random Swap
 
-This is a parallel implementation of Random Swap clustering algorithm made with Java.
+This is a parallel implementation of Random Swap clustering algorithm made with Java (CPU).
 
 Parameter tuning in G.java (globals).
 
